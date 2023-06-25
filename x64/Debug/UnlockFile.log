@@ -1,0 +1,3 @@
+﻿  UnlockFile.cpp
+D:\source\repos\UnlockFile\UnlockFile.cpp(36,22): warning C4101: 'buff': unreferenced local variable
+  UnlockFile.vcxproj -> D:\source\repos\UnlockFile\x64\Debug\UnlockFile.exe
